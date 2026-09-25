@@ -1,36 +1,23 @@
 # Olá, eu sou Kaio P. Rodrigues
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software e construção de projetos práticos para evoluir na área de tecnologia.
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software e construção de projetos práticos.
 
-## Tecnologias em estudo
+## Tecnologias
 
-- HTML5
-- CSS3
-- Python
-- Java
-- Git
-- GitHub
-- VS Code
+HTML5 • CSS3 • Python • Java • Git • GitHub
 
 ## Projetos
 
 ### ONG Lar Amigo
 
-Site desenvolvido com HTML5 e CSS3, voltado à adoção de animais.
+Website desenvolvido com HTML5 e CSS3 para simular uma plataforma de adoção de animais.
 
-**Principais recursos:**
-- Página inicial
-- Página de adoção
-- Página de contato
-- Cards de animais
 - Navegação entre páginas
+- Cards de animais
 - Formulário de contato
+- Organização e estilização com CSS
 
-**Projeto online:**  
-https://kaioph.github.io/ong-lar-amigo/
-
-**Código-fonte:**  
-https://github.com/KaioPH/ong-lar-amigo
+[Ver projeto online](https://kaioph.github.io/ong-lar-amigo/) • [Código-fonte](https://github.com/KaioPH/ong-lar-amigo)
 
 ## Atualmente estudando
 
@@ -42,23 +29,8 @@ https://github.com/KaioPH/ong-lar-amigo
 
 ## Objetivo profissional
 
-Busco oportunidades de **estágio ou vaga júnior em tecnologia**, com interesse em desenvolvimento de software e aprendizado prático em projetos reais.
+Busco oportunidades de **estágio ou vaga júnior em tecnologia**, com foco em desenvolvimento de software.
 
 ## Contato
 
-GitHub: https://github.com/KaioPH
-
-<!--
-**KaioPH/KaioPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/KaioPH)
